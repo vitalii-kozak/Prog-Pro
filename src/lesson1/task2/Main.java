@@ -1,4 +1,4 @@
-package lesson1.Task2;
+package lesson1.task2;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

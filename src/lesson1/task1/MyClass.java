@@ -1,4 +1,4 @@
-package lesson1.Task1;
+package lesson1.task1;
 
 class MyClass {
     @Test(a = 4, b = 5)
